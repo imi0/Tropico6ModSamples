@@ -1,1 +1,0 @@
-Simple hello-world test script that adds the text "Hello Presidente" above the palace.

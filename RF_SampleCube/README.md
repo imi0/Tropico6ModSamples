@@ -1,0 +1,1 @@
+Most basic sample of a new building, that just adds a cube with the default world-grid-texture, taken from my tutorial video.
