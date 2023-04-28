@@ -1,0 +1,1 @@
+Demonstration of how to add a palace customization (a boulder).
